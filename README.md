@@ -8,7 +8,7 @@ Through my coursework, I’ve gained hands-on experience with concepts like poin
 
 I’m currently seeking a summer internship where I can apply my knowledge, contribute to real-world projects, collaborate with a team, and continue growing as a software engineer.
 
-🛠️ Skills
+Skills
 Languages: C, C++, Java, JavaScript, Python, HTML
 Concepts: Data Structures, Algorithms, Object-Oriented Programming
 Tools: GDB, Valgrind
