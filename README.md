@@ -12,7 +12,8 @@ I’m currently seeking a summer internship where I can apply my knowledge, cont
 Languages: C, C++, Java, JavaScript, Python, HTML
 Concepts: Data Structures, Algorithms, Object-Oriented Programming
 Tools: GDB, Valgrind
-📚 Relevant Coursework
+
+Relevant Coursework
 Programming Practicum
 Program Design II
 Mathematical Foundations of Computing
